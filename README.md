@@ -29,7 +29,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Working as a **Full Stack Developer**
-- 🌱 Currently learning **Cloud Computing** and **DevOps tools**
+- 🌱 Currently learning **Cloud Computing**
 - ⚡ Fun fact: I love turning complex problems into simple, elegant code
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hamsesulup/), [Twitter](https://x.com/hamsesulup)
 
