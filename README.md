@@ -33,7 +33,6 @@
 - ⚡ Fun fact: I love turning complex problems into simple, elegant code
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hamsesulup/), [Twitter](https://x.com/hamsesulup)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -50,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET Framework" />
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
